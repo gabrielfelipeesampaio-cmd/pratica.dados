@@ -1,0 +1,5 @@
+﻿id_transacao,id_cliente,data_transacao,valor_bruto,valor_desconto,status,nome_cliente,cidade,valor_liquido
+101,1.0,2026-03-01,120.0,10.0,Aprovada,Ana Silva,São Paulo,110.0
+103,1.0,2026-03-02,300.5,25.0,Aprovada,Ana Silva,São Paulo,275.5
+105,,2026-03-04,150.0,0.0,Aprovada,,,150.0
+106,4.0,2026-03-05,200.0,15.0,Aprovada,Daniel Lima,Curitiba,185.0
