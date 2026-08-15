@@ -1,0 +1,2 @@
+# praticas
+fundamentos do pandas
